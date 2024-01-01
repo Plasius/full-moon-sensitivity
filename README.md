@@ -10,4 +10,4 @@ Steps:
 4. Run read-absolute-distance.py to get a frequency dict with the number of messages sent before or after the full moon by X days.
 5. Run read-relative-distance.py to get a frequency dict with the number of messages sent around the full moons (+/- 5 days)
 
-
+![findings.png](findings.png)
